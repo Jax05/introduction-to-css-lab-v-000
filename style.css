@@ -1,12 +1,3 @@
-Set the background of the <body> element (whole document) to #00b3e6 (light blue)
-Set the <div> elements:
-width to 700px
-margin to auto (centers our element)
-font-family to "Helvetica Neue"
-background to white
-padding to 30px (creates an invisible space around the element)
-Set the element with the id of #main-header to a font-size of 22px
-Set the elements with the class of .perspective-questions to a font-style of italic
 /* Tag selector to select the 'body' element */
 body {
   background-color: #00b3e6;
